@@ -1,2 +1,3 @@
 # CLI_GITWORKFLOW
-Repositorio criado para curso da Upinside
+
+🚀 Repositorio criado para curso da Upinside
